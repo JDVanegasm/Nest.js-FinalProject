@@ -43,10 +43,10 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 
 ## Stay in touch
 
-- Author -
-  Juan Daniel Vanegas Mayorquin 20222020077
-  Edgar Alejandro Mora Chala 20222020005
-  Juan Pablo Angulo Guerrero 20222020099
+- Author -<br>
+  Juan Daniel Vanegas Mayorquin 20222020077<br>
+  Edgar Alejandro Mora Chala 20222020005<br>
+  Juan Pablo Angulo Guerrero 20222020099<br>
 
 ## License
 
